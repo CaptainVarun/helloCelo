@@ -1,2 +1,4 @@
 # Hello Celo
-A repo to get started with the exercise outline here: https://docs.celo.org/v/master/developer-guide/start/hellocelo
+
+The purpose of this bounty is to help developers get acquainted with some of the basic features and tools in the Celo development environment.
+
